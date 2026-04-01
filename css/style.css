@@ -1,38 +1,33 @@
-
 body {
   background-color: #e0dede;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1 2;
   margin: 0;
-  
 }
 
-
-#menu{
-  background-color: rgb(88, 197, 112);
+#menu {
+  background-color: rgb(160, 173, 173);
   border-radius: 5px;
   list-style: none;
   padding: 20px;
 }
 
-#menu li{
-  display: inline-block
-
+#menu li {
+  display: inline-block;
 }
 
-.nav-link{
-  color:aqua;
+.nav-link {
+  color: aqua;
   font-size: 16px;
   text-decoration: none;
 }
-a.nav-link{
+
+a.nav-link {
   text-decoration: none;
 }
 
-
-#active-link{
-  color:red;
+#active-link {
+  color: red;
   background-color: darkgray;
-  border-radius: 5px;
-
+  border-radius: 10px;
 }
